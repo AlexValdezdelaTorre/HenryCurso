@@ -1,2 +1,1 @@
-# HenryCurso
-repositorio modulo 2 henry
+clonar repositorio a escritorio
